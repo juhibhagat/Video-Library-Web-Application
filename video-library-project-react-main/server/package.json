@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+"scripts": {
+  "start": "node api.cjs"
+},
+
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
