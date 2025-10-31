@@ -5,7 +5,6 @@ import type { VideoContract } from "../contracts/VideoContract";
 import axios from "axios";
 import { useDispatch } from "react-redux";
 import { addToSaveList } from "../slicers/video-slicer";
-import store from "../store/store";
 
 
 export function UserDashBoard(){
